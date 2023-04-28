@@ -1,30 +1,23 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Obsan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-[Insert a brief introduction about yourself here. This could include your job title, areas of expertise, hobbies, or anything else that you'd like people to know about you.]
+I'm a Full-stack mobile and web app developer 
 
 ## About Me
 
-[Add a more detailed description of yourself here. This could include your education, work experience, skills, and interests.]
+I'm a passionate software engineering graduate proficient in modern development frameworks such as Flutter and have experience working with Firebase as a cloud service. I'm collaborative and committed to delivering high-quality solutions, always seeking growth opportunities.
 
 ## Social Links
 
 You can find me on the following platforms:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/obsan-diribsa-18a03b263/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-02569B?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/obrand.drobs)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/obranddrobs/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/OBDREAMER)
 
-[Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-[![Flutter Badge](https://img.shields.io/badge/firebase-1EB4D4?style=for-the-badge&logo=firebase&logoColor=yellow)](https://t.me/iampavangandhi)
-
-## Projects
-
-[If you have any notable projects that you'd like to showcase, you can add them here. Include a brief description of each project, along with a link to the project's GitHub repository.]
 
 ## Contact Me
 
-[Add your email address or any other contact information that you'd like people to use if they want to get in touch with you.]
+obsannew@gmail.com
 
 Thanks for stopping by!
