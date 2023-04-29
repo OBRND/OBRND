@@ -1,23 +1,37 @@
-# Hi, I'm Obsan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<h1 align="center"> Hi, I'm Obsan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
-I'm a Full-stack mobile and web app developer 
+<h4 align="center">I'm a Full-stack mobile and web app developer</h4> 
 
-## About Me
+<h2> A little bit more about Me </h2>
 
-I'm a passionate software engineering graduate proficient in modern development frameworks such as Flutter and have experience working with Firebase as a cloud service. I'm collaborative and committed to delivering high-quality solutions, always seeking growth opportunities.
+  <ul>
+    <li> 🚀 My current focus is on building mobile and web applications.</li>
+    <li> 🎓 I have a degree in Software Engineering from Mekelle University.</li>
+    <li> 🎨 I enjoy creating beautiful and user-friendly interfaces, and I love working with Flutter for frontend development.</li>
+    <li> 🧰 I have expertise in developing backend using Dart and Firebase as a cloud service.</li>
+    <li> 📈  I'm always seeking opportunities for growth and collaboration, and I'm excited about the future of technology.</li></br>
+  </ul>
 
-## Social Links
+<h3 align = "center">💬 My social platforms</h3>
+<div align="center">
+  <a href="https://t.me/OBDREAMER"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram Badge"></a>
+  <a href="https://www.linkedin.com/in/obsan-diribsa-18a03b263/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.facebook.com/obrand.drobs"><img src="https://img.shields.io/badge/-Facebook-02569B?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge"></a>
+  <a href="https://www.instagram.com/obranddrobs/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"></a>
+</div>
 
-You can find me on the following platforms:
+<h3 align="center">:computer: Technologies I use</h3>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=flutter,firebase,git,sqlite,dart,cpp,java,html,css,figma&perline=10">
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,sqlite,dart,cpp,java,html,css,figma&perline=5" alt="My Skills">
+  </a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/obsan-diribsa-18a03b263/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-02569B?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/obrand.drobs)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/obranddrobs/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/OBDREAMER)
+<h3 align="center">Contact me by</h3>
+<p align="center">
+  <a href="mailto:obsannew@gmail.com">
+    <img src="https://img.shields.io/badge/-obsannew@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+</p>
 
-
-## Contact Me
-
-obsannew@gmail.com
-
-Thanks for stopping by!
+<p align="center">Let's connect and build something great together!</p>
